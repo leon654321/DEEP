@@ -27,6 +27,7 @@ X_test  = []
 y_train = []
 y_test  = []
 
+
 for index, classlabel in enumerate(classes):
     photos_dir = "./" + classlabel
     files = glob.glob(photos_dir + "/*.jpg")
