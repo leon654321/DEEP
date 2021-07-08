@@ -16,7 +16,7 @@ suzu_ali:
 **全体結果**　今までの結果を全てグラフにします。  
   
   
-![Alt text](/file_construction.jpg)  
+![file_construction](https://user-images.githubusercontent.com/86167241/124968796-e649a380-e060-11eb-8ee5-7d505302a1f7.JPG) 
 
 以下進捗  
 2021/07/06 : みちょぱゆきぽよ分類からすずアリス分類に変更。顔の認識等上手くいった。どうせなら多くの人で試してみたい。  
